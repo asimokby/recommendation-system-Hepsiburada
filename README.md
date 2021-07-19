@@ -44,7 +44,7 @@ To run the API example:
 
 The repo contains a comprehensive [**notebook**](../main/notebook.ipynb) that I recommend starting with.
 
-There is also a [**Design Document**](../main/design_document) provided, which discusses some of the things in the notebook in more detials and also the futuer work.
+There is also a [**Design Document**](../main/Design_Document.pdf) provided, which discusses some of the things in the notebook in more detials and also the futuer work.
 
 Other than that, an **API** is added for the sake of providing an example request as required int the challenge. Check it out only if you are interested, but the notebook is already detailed enough to help in understanding the methods implemented.  
 
