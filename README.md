@@ -12,7 +12,7 @@
 
 ## About <a name="About"></a>
 
-In this repo, I tackled a challenge from Hepsiburada. The challenge is building a related products recommendation for the cart page of an online store. Meaning that when a customer is landed on the cart page, a list of recommended products should be provided. 
+In this project, I built a recommendation system for an online grocery store. The idea is building a related-products recommendation system for the cart page of an online store. Meaning that when a customer is landed on the cart page, a list of recommended products should be provided. 
 
 
 
