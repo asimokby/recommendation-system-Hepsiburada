@@ -52,7 +52,7 @@ Other than that, an **API** is added for the sake of providing an example reques
 
 To run the [API Example](../main/api_example):
 
-1. first need to run the notebook. Running the notebook will invove **pickling** some objects that are used on the server. 
+1. first need to run the notebook. Running the notebook will invove **pickling** some objects that are used on the server. Make sure the datasets (json files) exist in the cwd in a directory called **data**.
 2. start the flask server and leave it open.
 ```
 python3 api_example/flask_api.py
