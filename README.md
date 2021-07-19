@@ -46,7 +46,7 @@ The repo contains a comprehensive [**notebook**](../main/notebook.ipynb) that I 
 
 There is also a [**Design Document**](../main/Design_Document.pdf) provided, which discusses some of the things in the notebook in more detials and also the futuer work.
 
-Other than that, an **API** is added for the sake of providing an example request as required int the challenge. Check it out only if you are interested, but the notebook is already detailed enough to help in understanding the methods implemented.  
+Other than that, an **API** is added for the sake of providing an example as it was required. Check it out if you are interested, but the notebook is already detailed enough to help in understanding the project.  
 
 ## Running The API Example <a name="API-Example"></a>
 
